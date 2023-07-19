@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Simple',
-  description: 'Page description',
+  title: 'HypnosETH - Real Yields income',
+  description: 'Earn Real Yields using hETH, L0 algo pegged to ETH',
 }
 
 import Hero from '@/components/hero'
